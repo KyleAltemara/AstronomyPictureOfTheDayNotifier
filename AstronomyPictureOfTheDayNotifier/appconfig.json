@@ -1,0 +1,10 @@
+﻿{
+  "SmtpClient": {
+    "Host": "smtp.example.com",
+    "Port": 1234,
+    "Username": "user",
+    "Password": "pass",
+    "Sender": "from@example.com",
+    "Recipient": "to@example.com"
+  }
+}
